@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Rhoades.
 - 👀 I’m interested in web development, software engineering, and data science/visualization.
-- 🌱 I’m currently learning SQL, Python, and R and working to become more fluent in HTML, CSS, and JavaScript.
+- 🌱 I have dabbled in Matlab, Python, R, and SQL am and working to become more fluent in HTML, CSS, Bootstrap, and JavaScript.
 - 💞️ I’m looking to collaborate on projects that empower users and community stakeholders. 
 - 📫 You can reach me at rhoadesdaniel22@gmail.com.
 

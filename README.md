@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Rhoades.
 - 👀 I’m interested in web development, software engineering, and data science/visualization.
-- 🌱 I'm currently completing a Udemy course that builds on my recently acquired front end web development skills and extends those skills into back end proficiency with languages such as SQL.
+- 🌱 I'm currently completing a Udemy course that reinforces my front-end web development skills before extending those skills into back-end proficiency with languages such as SQL
 - 💞️ I’m looking to collaborate on projects that empower users and community stakeholders.
 - 📫 You can reach me at rhoadesdaniel22@gmail.com.
 
